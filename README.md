@@ -146,4 +146,4 @@ streamlit run app.py
 https://github.com/samarth3868-coder/ANN-CLASSIFICATION-CUSTOMER-CHURN-MODEL
 
 **Live Streamlit App:**
-https://ann-classification-customer-churn-model-lgcwmhqb9qehrdvkqedfg.streamlit.app/
+https://ann-classification-customer-churn-model-lgcwmhqb9qehrdvkqedfgr.streamlit.app/
