@@ -4,7 +4,7 @@ An Artificial Neural Network (ANN) based machine learning project for predicting
 
 ## 🚀 Live Demo
 
-**[Open the Streamlit App](https://ann-classification-customer-churn-model-lgcwmhqb9qehrdvkqedfg.streamlit.app/)**
+**[Open the Streamlit App](https://ann-classification-customer-churn-model-lgcwmhqb9qehrdvkqedfgr.streamlit.app/)**
 
 ![Customer Churn Prediction App](customer-churn-app.png)
 ## 📌 Project Overview
