@@ -6,6 +6,7 @@ An Artificial Neural Network (ANN) based machine learning project for predicting
 
 **[Open the Streamlit App](https://ann-classification-customer-churn-model-lgcwmhqb9qehrdvkqedfg.streamlit.app/)**
 
+![Customer Churn Prediction App](assets/customer-churn-app.png)
 ## 📌 Project Overview
 
 Customer churn prediction is a binary classification problem where the goal is to identify customers who are likely to leave a service.
